@@ -1,0 +1,25 @@
+# Секреты
+.env
+*.key
+*.pem
+*password*
+*secret*
+*token*
+
+# Временные файлы Vim
+*.swp
+*.swo
+*.swo
+*~
+.DS_Store
+
+# Плагины
+plugged/
+backup/
+swap/
+undo/
+
+# История команд
+.zsh_history
+.bash_history
+*.log
